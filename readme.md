@@ -10,7 +10,8 @@ The work done in this project is an attempt at generating original compositions 
 ## Objective <br>
 <font face = "verdana"><b> Given a collection of music from a popular artist, generate new <I>"meaningful"</I> music compositions that are able to capure the <i>"<u>structure</u>"</i> and <i>"<u>style</u>"</i> of the original artist.</b></font>
 
-## Approach <br><p align="right"><font size="1px">Check out my <a href="./11785_poster_hd.pdf">poster</a> for the project!</font></p>
+## Approach <br>
+<p align="right"><font size="1px">Check out my <a href="./11785_poster_hd.pdf">poster</a> for the project!</font></p>
 
 <font face="verdana">
 <b>1. Pre-Processing</b><br>
